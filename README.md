@@ -63,25 +63,23 @@
   </li>
   
   <li>
-    <b>Praat</b> <br>
-    http://www.fon.hum.uva.nl/praat/
-  </li>
-  
-  <li>
     <b>EMIME Project</b> <br>
     http://www.emime.org/
   </li>
   
   <li>
-  <b> </b> <br>
+    <b>CMU_ARCTIC speech synthesis databases</b> <br>
+    http://festvox.org/cmu_arctic/
   </li>
   
   <li>
-  <b> </b> <br>
+    <b>The World English Bible</b> <br>
+    http://www.audiotreasure.com/webindex.htm
   </li>
   
   <li>
-  <b> </b> <br>
+    <b>Nancy Corpus</b> <br>
+    http://www.cstr.ed.ac.uk/projects/blizzard/2011/lessac_blizzard2011/
   </li>
   
   <li>
