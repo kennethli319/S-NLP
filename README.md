@@ -1,5 +1,5 @@
 # Speech and Natural Language Processing
-  This page shows some open source projects, toolkits and websites which are typically useful for researches or applications in speech and language processing.
+  This page shows some of the open source projects, toolkits and websites which are typically useful for researches or applications in speech and language processing.
 
 ---
 ## Speech related:
