@@ -27,7 +27,8 @@ http://kaldi-asr.org/
 </li>
 
 <li>
-<b></b>  
+<b>Praat</b>  
+http://www.fon.hum.uva.nl/praat/
 </li>
 
 <li>
