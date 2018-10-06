@@ -55,19 +55,42 @@
     VoxForge was set up to collect transcribed speech for use in Open Source Speech Recognition Engines ("SRE"s) such as such as ISIP, HTK, Julius and Sphinx.<br>
     http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/
   </li>
-
-
+  
   <li>
     <b>Tatoeba</b> <br>
     Tatoeba is a collection of sentences and translations. <br>
     https://tatoeba.org/eng/downloads
   </li>
-
-
+  
+  <li>
+    <b>Praat</b> <br>
+    http://www.fon.hum.uva.nl/praat/
+  </li>
+  
+  <li>
+    <b>EMIME Project</b> <br>
+    http://www.emime.org/
+  </li>
+  
   <li>
   <b> </b> <br>
   </li>
-
+  
+  <li>
+  <b> </b> <br>
+  </li>
+  
+  <li>
+  <b> </b> <br>
+  </li>
+  
+  <li>
+  <b> </b> <br>
+  </li>
+  
+  <li>
+  <b> </b> <br>
+  </li>
 
   <li>
   <b> </b> <br>
