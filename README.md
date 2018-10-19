@@ -96,3 +96,12 @@
 </ol>
 
 ## NLP related:
+<ol>
+  <li>
+  <b>BBC news corpus</b> <br>
+  http://mlg.ucd.ie/datasets/bbc.html
+  </li>
+</ol>
+
+## ML related:
+  https://github.com/deepmind/trfl/
