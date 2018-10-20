@@ -94,6 +94,8 @@
   <b> </b> <br>
   </li>
 </ol>
+https://github.com/aparrish/pronouncingpy
+https://www.oschina.net/question/3820517_2280583
 
 ## NLP related:
 <ol>
@@ -101,7 +103,10 @@
   <b>BBC news corpus</b> <br>
   http://mlg.ucd.ie/datasets/bbc.html
   </li>
+  
+  https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
 </ol>
 
 ## ML related:
   https://github.com/deepmind/trfl/
+  https://github.com/google/dopamine
