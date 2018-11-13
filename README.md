@@ -89,13 +89,13 @@
   </li>
 
   <li>
-  <b> </b> <br>
+  <b>A simple interface for the CMU pronouncing dictionary </b> <br>
   https://github.com/aparrish/pronouncingpy
   </li>
   
   
   <li>
-  <b> </b> <br>
+  <b>E-Guide dog</b> <br>
   https://www.oschina.net/question/3820517_2280583
   </li>
   
@@ -125,11 +125,28 @@
   </li>
   
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
-  https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
 </ol>
 
-## ML related:
+## Machine Learning / Neural Network related:
+ 
+<ol>
+  <li>
+  <b> An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville </b> <br>
   https://www.deeplearningbook.org/
+  </li>
+  
+  <li>
+  <b> Deepmind trfl </b> <br>
   https://github.com/deepmind/trfl/
+  </li>
+  
+  <li>
+  <b> Dopamine is a research framework for fast prototyping of reinforcement learning algorithms </b> <br>
   https://github.com/google/dopamine
+  </li>
+
+  <li>
+  <b> Neural Networks and Deep Learning, a free online book </b> <br>
   http://neuralnetworksanddeeplearning.com/
+  </li>
+</ol>
