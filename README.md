@@ -87,12 +87,6 @@
   This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. https://arxiv.org/abs/1810.04719
     https://github.com/google/uis-rnn
   </li>
-  
-  <li>
-  <b>Google Bert </b> <br>
-  TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
-  https://github.com/google-research/bert
-  </li>
 
   <li>
   <b> </b> <br>
@@ -124,10 +118,18 @@
   https://www.freebase.com/
   </li>
   
+  <li>
+  <b>Google Bert </b> <br>
+  TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
+  https://github.com/google-research/bert
+  </li>
+  
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
 </ol>
 
 ## ML related:
+  https://www.deeplearningbook.org/
   https://github.com/deepmind/trfl/
   https://github.com/google/dopamine
+  http://neuralnetworksanddeeplearning.com/
