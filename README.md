@@ -83,19 +83,29 @@
   </li>
   
   <li>
-  <b> </b> <br>
+  <b>Google uis-rnn</b> <br>
+  This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. https://arxiv.org/abs/1810.04719
+    https://github.com/google/uis-rnn
   </li>
   
   <li>
-  <b> </b> <br>
+  <b>Google Bert </b> <br>
+  TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
+  https://github.com/google-research/bert
   </li>
 
   <li>
   <b> </b> <br>
+  https://github.com/aparrish/pronouncingpy
   </li>
+  
+  
+  <li>
+  <b> </b> <br>
+  https://www.oschina.net/question/3820517_2280583
+  </li>
+  
 </ol>
-https://github.com/aparrish/pronouncingpy
-https://www.oschina.net/question/3820517_2280583
 
 ## NLP related:
 <ol>
@@ -103,6 +113,17 @@ https://www.oschina.net/question/3820517_2280583
   <b>BBC news corpus</b> <br>
   http://mlg.ucd.ie/datasets/bbc.html
   </li>
+  
+  <li>
+  <b>GEO query database</b> <br>
+  http://www.cs.utexas.edu/users/ml/nldata/geoquery.html
+  </li>
+  
+  <li>
+  <b>FreeBase for QA</b> <br>
+  https://www.freebase.com/
+  </li>
+  
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
 </ol>
