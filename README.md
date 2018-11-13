@@ -151,15 +151,6 @@
   </li>
 </ol>
 
-<ul id="id01">
-  <li>Oslo</li>
-  <li>Stockholm</li>
-  <li>Helsinki</li>
-  <li>Berlin</li>
-  <li>Rome</li>
-  <li>Madrid</li>
-</ul>
-
 <script>
 function sortList() {
   var list, i, switching, b, shouldSwitch;
