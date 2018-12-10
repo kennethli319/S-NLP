@@ -161,3 +161,37 @@
   https://github.com/tensorspace-team/tensorspace
   </li>
 </ol>
+
+## Research paper:
+
+<ol>
+  <li>
+  <b> One Model To Learn Them All </b> <br>
+  Keywords: 
+    #2017 #MultiTasking
+  Link:
+    https://arxiv.org/abs/1706.05137
+  </li>
+  
+  <li>
+  <b> Attention Is All You Need </b> <br>
+  Keywords: 
+    #2017 #NeuralNetwork #Attention
+  Link:
+    https://arxiv.org/abs/1706.03762  
+  </li>
+  
+  <li>
+  <b> </b> <br>
+  </li>
+  
+  <li>
+  <b> </b> <br>
+  </li>
+  
+  <li>
+  <b> </b> <br>
+  </li>
+ 
+</ol>
+
