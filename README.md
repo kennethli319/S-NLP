@@ -129,6 +129,8 @@
   https://dialogflow.com/
   </li>
   
+  https://clamp.uth.edu CLAMP Clinical Language Annotation, Modeling, and Processing Toolkit
+  
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
 </ol>
 
@@ -191,3 +193,6 @@
  
 </ol>
 
+## Courses
+
+https://www.youtube.com/watch?v=ISk80iLhdfU
