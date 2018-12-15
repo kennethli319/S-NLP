@@ -93,11 +93,17 @@
   https://github.com/aparrish/pronouncingpy
   </li>
   
-  
   <li>
   <b>E-Guide dog</b> <br>
   https://www.oschina.net/question/3820517_2280583
   </li>
+
+  <li>
+  <b>PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC) </b> <br>
+  https://github.com/r9y9/gantts
+  </li>
+
+  
   
 </ol>
 
@@ -185,7 +191,8 @@
   </li>
   
   <li>
-  <b> </b> <br>
+  <b> speech-to-speech translation </b> <br>
+  https://scholar.google.co.uk/scholar?as_ylo=2018&q=speech-to-speech+translation&hl=en&as_sdt=0,5&as_vis=1
   </li>
   
   <li>
@@ -196,4 +203,10 @@
 
 ## Courses
 
+Oxford Deep NLP 2017 course
+https://github.com/oxford-cs-deepnlp-2017
+
 https://www.youtube.com/watch?v=ISk80iLhdfU
+
+Steps by steps - learn Computer Science and Artificial Intelligence
+https://github.com/congchan/Computer-Science-and-Artificial-Intelligence
