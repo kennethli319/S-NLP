@@ -5,7 +5,7 @@
 ## Speech related:
 <ol id="id01">
   <li>
-    <b> <a href="https://cmusphinx.github.io/"> CMUSphinx </a> </b> <br>
+    <b> CMUSphinx </b> <a href="https://cmusphinx.github.io/">[link]</a> <br>
     OPEN SOURCE SPEECH RECOGNITION TOOLKIT <br>
   </li>
 
