@@ -1,9 +1,15 @@
 # Speech and Natural Language Processing
   This page shows some of the open source projects, toolkits and websites which are typically useful for researches or applications in speech and language processing.
 
+<a href="speech">[Speech]</a>
+<a href="nlp">[NLP]</a>
+<a href="ml">[Machine Learning and Neural Net]</a>
+<a href="paper">[Research]</a>
+<a href="courses">[Courses]</a>
+
 ---
 ## Speech related:
-<ol id="id01">
+<ol id="speech">
   <li>
     <b> CMUSphinx </b> <a href="https://cmusphinx.github.io/">[link]</a> <br>
     OPEN SOURCE SPEECH RECOGNITION TOOLKIT <br>
@@ -111,14 +117,11 @@
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
-
-
-  
   
 </ol>
 
 ## NLP related:
-<ol>
+<ol id="nlp">
   <li>
   <b>BBC news corpus</b> <br>
   http://mlg.ucd.ie/datasets/bbc.html
@@ -160,11 +163,9 @@
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
 </ol>
 
-
-
 ## Machine Learning / Neural Network related:
  
-<ol>
+<ol id="ml">
   <li>
   <b> An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville </b> <br>
   https://www.deeplearningbook.org/
@@ -199,7 +200,7 @@
 
 ## Research paper:
 
-<ol>
+<ol id="paper">
   <li>
   <b> One Model To Learn Them All </b> <br>
   #2017 #MultiTasking <br>
@@ -247,7 +248,7 @@ Using Multi-task Learning </b> <br>
 
 ## Courses
 
-<ol>
+<ol id="courses">
 
   <li>
   <b> Oxford Deep NLP 2017 course </b> <br>
