@@ -8,8 +8,9 @@
 <a href="#courses">[Courses]</a>
 
 ---
+<div id="speech"></div>
 ## Speech related:
-<ol id="speech">
+<ol>
   <li>
     <b> CMUSphinx </b> <a href="https://cmusphinx.github.io/">[link]</a> <br>
     OPEN SOURCE SPEECH RECOGNITION TOOLKIT <br>
@@ -119,9 +120,9 @@
   </li>
   
 </ol>
-
+<div id="nlp"></div>
 ## NLP related:
-<ol id="nlp">
+<ol>
   <li>
   <b>BBC news corpus</b> <br>
   http://mlg.ucd.ie/datasets/bbc.html
