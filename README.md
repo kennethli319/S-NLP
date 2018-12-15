@@ -196,17 +196,66 @@
   </li>
   
   <li>
-  <b> </b> <br>
+  <b> Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents </b> <br>
+  https://arxiv.org/pdf/1801.08116.pdf
   </li>
  
+  <li>
+  <b> Multimodal Machine Translation with Reinforcement Learning </b> <br>
+  https://arxiv.org/pdf/1805.02356.pdf
+  </li>
+
+  <li>
+  <b> Exploiting Linguistic Resources for Neural Machine Translation
+Using Multi-task Learning </b> <br>
+  https://arxiv.org/pdf/1708.00993.pdf 
+  </li>
+
 </ol>
 
 ## Courses
 
-Oxford Deep NLP 2017 course
-https://github.com/oxford-cs-deepnlp-2017
+<ol>
 
-https://www.youtube.com/watch?v=ISk80iLhdfU
+  <li>
+  <b> Oxford Deep NLP 2017 course </b> <br>
+  https://github.com/oxford-cs-deepnlp-2017
+  </li>
 
-Steps by steps - learn Computer Science and Artificial Intelligence
-https://github.com/congchan/Computer-Science-and-Artificial-Intelligence
+  <li>
+  <b> Deepmind UCL Deep RL </b> <br>
+  https://www.youtube.com/watch?v=ISk80iLhdfU
+  </li>
+
+  <li>
+  <b> Steps by steps - learn Computer Science and Artificial Intelligence </b> <br>
+  https://github.com/congchan/Computer-Science-and-Artificial-Intelligence
+  </li>
+
+  <li>
+  <b>  </b> <br>
+  
+  </li>
+
+  <li>
+  <b>  </b> <br>
+  
+  </li>
+
+  <li>
+  <b>  </b> <br>
+  
+  </li>
+
+  <li>
+  <b>  </b> <br>
+  
+  </li>
+
+</ol>
+
+
+
+
+
+
