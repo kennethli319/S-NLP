@@ -102,6 +102,17 @@
   https://github.com/r9y9/gantts
   </li>
 
+  <li>
+    <b> Something useful for speech and natural language processing </b> <a href="https://github.com/MU94W/SpeechUtils">[link]</a> <br>
+    Something useful for speech and natural language processing <br>
+  </li>
+
+  <li>
+    <b> NAME </b> <a href="LINK">[link]</a> <br>
+    INFO <br>
+  </li>
+
+
   
   
 </ol>
@@ -132,6 +143,11 @@
   <li>
   <b>Google Dialogflow(previously api.ai) </b> <br>
   https://dialogflow.com/
+  </li>
+
+  <li>
+    <b> NAME </b> <a href="LINK">[link]</a> <br>
+    INFO <br>
   </li>
   
   DouBan DuShu is a Chinese website where users can share their reviews about various kinds of books.
@@ -173,6 +189,11 @@
   <b> TensorSpace.js </b> <br>
   A neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js
   https://github.com/tensorspace-team/tensorspace
+  </li>
+
+  <li>
+  <b> NAME </b> <a href="LINK">[link]</a> <br>
+  INFO <br>
   </li>
 </ol>
 
@@ -217,6 +238,11 @@ Using Multi-task Learning </b> <br>
   https://arxiv.org/pdf/1708.00993.pdf 
   </li>
 
+  <li>
+  <b> NAME </b> <a href="LINK">[link]</a> <br>
+  INFO <br>
+  </li>
+
 </ol>
 
 ## Courses
@@ -244,18 +270,8 @@ Using Multi-task Learning </b> <br>
   </li>
 
   <li>
-  <b>  </b> <br>
-  
-  </li>
-
-  <li>
-  <b>  </b> <br>
-  
-  </li>
-
-  <li>
-  <b>  </b> <br>
-  
+    <b> NAME </b> <a href="LINK">[link]</a> <br>
+    INFO <br>
   </li>
 
 </ol>
