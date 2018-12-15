@@ -135,10 +135,17 @@
   https://dialogflow.com/
   </li>
   
+  DouBan DuShu is a Chinese website where users can share their reviews about various kinds of books.
+  https://github.com/JaniceZhao/Douban-Dushu-Dataset
+
+  https://github.com/JaniceZhao/Chinese-Forum-Corpus.git
+
   https://clamp.uth.edu CLAMP Clinical Language Annotation, Modeling, and Processing Toolkit
   
   https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
 </ol>
+
+
 
 ## Machine Learning / Neural Network related:
  
