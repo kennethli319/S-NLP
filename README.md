@@ -8,8 +8,8 @@
 <a href="#courses">[Courses]</a>
 
 ---
-<div id="speech">
 ## Speech related:
+<div id="speech">
   <ol>
   <li>
     <b> CMUSphinx </b> <a href="https://cmusphinx.github.io/">[link]</a> <br>
@@ -121,8 +121,8 @@
   </ol>
 </div>
 
-<div id="nlp">
 ## NLP related:
+<div id="nlp">
   <ol>
   <li>
   <b>BBC news corpus</b> <br>
@@ -166,8 +166,8 @@
   </ol>
 </div>
 
-<div id="ml">
 ## Machine Learning / Neural Network related:
+<div id="ml">
   <ol>
   <li>
     <b> An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville </b> <br>
@@ -202,8 +202,8 @@
   </ol>
 </div>
 
-<div id="paper">
 ## Research paper:
+<div id="paper">
   <ol>
   <li>
     <b> One Model To Learn Them All </b> <br>
@@ -249,9 +249,9 @@
   </ol>
 </div>
 
-<div id="courses">
 ## Courses
-  <ol id="courses">
+<div id="courses">
+  <ol>
   <li>
     <b> Oxford Deep NLP 2017 course </b> <br>
     https://github.com/oxford-cs-deepnlp-2017
