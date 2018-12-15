@@ -5,9 +5,8 @@
 ## Speech related:
 <ol id="id01">
   <li>
-    <b>CMUSphinx</b> <br>
+    <b> <a href="https://cmusphinx.github.io/"> CMUSphinx</b> <br>
     OPEN SOURCE SPEECH RECOGNITION TOOLKIT <br>
-    https://cmusphinx.github.io/
   </li>
 
   <li>
@@ -193,7 +192,7 @@
   </li>
   
   <li>
-  <b> </b> <br>
+  <b> Low-Resource Speech-to-Text Translation </b> <br>
   https://arxiv.org/pdf/1803.09164.pdf
   </li>
   
@@ -240,8 +239,8 @@ Using Multi-task Learning </b> <br>
   </li>
 
   <li>
-  <b>  </b> <br>
-  
+  <b> AI For Everyone - Coursera </b> <br>
+  https://www.coursera.org/learn/ai-for-everyone/
   </li>
 
   <li>
