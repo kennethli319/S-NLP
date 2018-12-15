@@ -1,11 +1,11 @@
 # Speech and Natural Language Processing
   This page shows some of the open source projects, toolkits and websites which are typically useful for researches or applications in speech and language processing.
 
-<a href="speech">[Speech]</a>
-<a href="nlp">[NLP]</a>
-<a href="ml">[Machine Learning and Neural Net]</a>
-<a href="paper">[Research]</a>
-<a href="courses">[Courses]</a>
+<a href="#speech">[Speech]</a>
+<a href="#nlp">[NLP]</a>
+<a href="#ml">[Machine Learning and Neural Net]</a>
+<a href="#paper">[Research]</a>
+<a href="#courses">[Courses]</a>
 
 ---
 ## Speech related:
