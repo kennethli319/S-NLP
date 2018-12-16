@@ -218,9 +218,15 @@ Jump to:
   </li>
 
   <li>
+    <b> Deep Reinforcement Learning for Keras </b> <a href="https://github.com/keras-rl/keras-rl">[link]</a> <br>
+    keras-rl implements some state-of-the art deep reinforcement learning algorithms in Python and seamlessly integrates with the deep learning library Keras. <br>
+  </li>
+
+  <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
+
   </ol>
 </div>
 
@@ -280,6 +286,30 @@ Jump to:
   <li>
     <b> Large-Scale Study of Curiosity-Driven Learning </b> <a href="https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf">[link]</a> <br>
     Curiosity-Driven RL <br>
+  </li>
+  
+  <li>
+    <b> SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient </b> <a href="https://arxiv.org/pdf/1609.05473.pdf">[link]</a> <br>
+    #2017 <br>
+  </li>
+
+  <li>
+    <b> Recent Trends in Deep Learning Based Natural Language Processing </b> <a href="https://ieeexplore.ieee.org/abstract/document/8416973">[link]</a> <br>
+    #2018 <br>
+  </li>
+
+  <li>
+    <b> SEQUENCE-TO-SEQUENCE ASR OPTIMIZATION VIA REINFORCEMENT LEARNING </b> <a href="https://arxiv.org/pdf/1710.10774.pdf">[link]</a> <br>
+  </li>
+
+  <li>
+    <b> Listen, Attend and Spell </b> <a href="https://arxiv.org/pdf/1508.01211.pdf">[link]</a> <br>
+     Listen, Attend and Spell (LAS), a neural network that learns to transcribe speech utterances to characters. <br>
+  </li>
+
+  <li>
+    <b> State-of-the-Art Speech Recognition with Sequence-to-Sequence Models </b> <a href="https://ieeexplore.ieee.org/abstract/document/8462105">[link]</a> <br>
+    Attention-based encoder-decoder architectures such as Listen, Attend, and Spell (LAS), subsume the acoustic, pronunciation and language model components of a traditional automatic speech recognition (ASR) system into a single neural network. On a 12, 500 hour voice search task, we find that the proposed changes improve the WER from 9.2% to 5.6%, while the best conventional system achieves 6.7%; on a dictation task our model achieves a WER of 4.1% compared to 5% for the conventional system. <br>
   </li>
 
   <li>
