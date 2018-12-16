@@ -309,6 +309,16 @@ Jump to:
     本文目标是详细解释如何基于开源Merlin项目搭建中文统计参数语音合成系统，但笔者目前尚未实现中文语音合成，本文记录了笔者的进展并且会持续更新直到实现中文语音合成为止。 <br>
   </li>
 
+  <li>
+    <b> Reinforcement Learning: An Introduction </b> <a href="https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view">[pdf-link]</a> <a href="http://incompleteideas.net/book/the-book-2nd.html">[main-link]</a> <br>
+    Second Edition, in progress - MIT Press, Cambridge, MA, 2017 <br>
+  </li>
+
+  <li>
+    <b> NAME </b> <a href="LINK">[link]</a> <br>
+    INFO <br>
+  </li>
+
   </ol>
 </div>
 
