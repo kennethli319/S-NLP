@@ -123,8 +123,7 @@ Jump to:
   </li>
 
   <li>
-    <b> NAME </b> <a href="LINK">[link]</a> <br>
-    INFO <br>
+    <b> Linguistic Variation in Chinese Speech Communities 泛華語地區漢語共時語料庫 </b> <a href="http://hkcc.livac.org/index.php?lang=tc">[link]</a> <br>
   </li>
 
 
@@ -269,9 +268,25 @@ Jump to:
   </li>
 
   <li>
+    <b> 香港成人粵語口語語料庫 </b> <a href="http://www.cuhk.edu.hk/ics/clrc/crcl_92_1/fung.pdf">[link]</a> <br>
+    INFO <br>
+  </li>
+
+  <li>
+    <b> 粵語研究新資源：《香港二十世紀中期粵語語料庫》</b> <a href="https://www.researchgate.net/publication/280004764_yueyuyanjiuxinziyuanxianggangershishijizhongqiyueyuyuliaoku">[link]</a> <br>  
+    mentioned (1) 香港兒童粵語語料庫（Hong Kong Cantonese Child Language Corpus - CANCORP）（Lee and Wong 1998）(2)  香港雙語兒童語料庫（Yip and Matthews 2007）(3)  香港粵語語料庫（Hong Kong University Cantonese Corpus）（Wong 2006）(4)   The Hong Kong Cantonese Adult Corpus（Leung and Law 2001） <br>
+  </li>
+
+  <li>
+    <b> Large-Scale Study of Curiosity-Driven Learning </b> <a href="https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf">[link]</a> <br>
+    Curiosity-Driven RL <br>
+  </li>
+
+  <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
+
   </ol>
 </div>
 
