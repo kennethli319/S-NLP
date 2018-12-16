@@ -1,6 +1,12 @@
 # Speech and Natural Language Processing
   This page shows some of the open source projects, toolkits and websites which are typically useful for researches or applications in speech and language processing.
 
+Other lists for SNLP:
+<a href="https://github.com/edobashira/speech-language-processing">[List1-Github-SNLP]</a> <br>
+<a href="https://zhuanlan.zhihu.com/p/25887325">[List2-Zhihu-SNLP]</a> <br>
+<a href="https://github.com/candlewill/Speech-Corpus-Collection">[List3-Github-Speech]</a> <br>
+
+Jump to:
 <a href="#speech">[Speech]</a>
 <a href="#nlp">[NLP]</a>
 <a href="#ml">[Machine Learning and Neural Net]</a>
@@ -17,7 +23,7 @@
   </li>
 
   <li>
-    <b>Festival</b> <a href="http://www.cstr.ed.ac.uk/projects/festival/">[link]</a> <br>
+    <b>Festival</b> <a href="http://www.cstr.ed.ac.uk/projects/festival/">[link]</a> <a href="http://www.festvox.org/docs/manual-2.4.0/festival_toc.html">[documentation]</a> <br>
     Speech Synthesis System by CSTR <br>
   </li>
 
@@ -76,20 +82,20 @@
   </li>
   
   <li>
-  <b>Google uis-rnn</b> <a href="https://github.com/google/uis-rnn">[Github]</a> <a href="https://arxiv.org/abs/1810.04719">[paper]</a> <br>
-  This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. 
+    <b>Google uis-rnn</b> <a href="https://github.com/google/uis-rnn">[Github]</a> <a href="https://arxiv.org/abs/1810.04719">[paper]</a> <br>
+    This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. 
   </li>
 
   <li>
-  <b>A simple interface for the CMU pronouncing dictionary </b> <a href="https://github.com/aparrish/pronouncingpy">[link]</a> <br>
+    <b>A simple interface for the CMU pronouncing dictionary </b> <a href="https://github.com/aparrish/pronouncingpy">[link]</a> <br>
   </li>
   
   <li>
-  <b>E-Guide dog</b> <a href="https://www.oschina.net/question/3820517_2280583">[link]</a> <br>
+    <b>E-Guide dog</b> <a href="https://www.oschina.net/question/3820517_2280583">[link]</a> <br>
   </li>
 
   <li>
-  <b>PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC) </b> <a href="https://github.com/r9y9/gantts">[link]</a> <br>
+    <b>PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC) </b> <a href="https://github.com/r9y9/gantts">[link]</a> <br>
   </li>
 
   <li>
@@ -98,8 +104,17 @@
   </li>
 
   <li>
-    <b> Facebook fastText </b> <a href="https://github.com/facebookresearch/fastText">[link]</a> <br>
-    fastText is a library for efficient learning of word representations and sentence classification. <br>
+    <b> Saarbruecken Voice Database </b> <a href="http://stimmdb.coli.uni-saarland.de/index.php4#target">[link]</a> <br>
+  </li>
+
+  <li>
+    <b> A British National Corpus Spoken Audio Sampler </b> <a href="http://www.phon.ox.ac.uk/SpokenBNC">[link]</a> <br>
+    This site presents a selection of audio files from the spoken part of the British National Corpus, digitized from the analogue audio cassette tapes deposited at the British Library Sound Archive, together with associated transcription and annotation files created during the Mining a Year of Speech project. <br>
+  </li>
+
+  <li>
+    <b> pronouncingpy </b> <a href="https://github.com/aparrish/pronouncingpy">[link]</a> <br>
+    A simple interface for the CMU pronouncing dictionary <br>
   </li>
 
   <li>
@@ -153,6 +168,11 @@
   <li>
     <b> Bytecup2018 </b> <a href="https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0">[link]</a> <br>
     Bytecup Dataset <br>
+  </li>
+
+  <li>
+    <b> Facebook fastText </b> <a href="https://github.com/facebookresearch/fastText">[link]</a> <br>
+    fastText is a library for efficient learning of word representations and sentence classification. <br>
   </li>
 
   <li>
@@ -228,6 +248,16 @@
   </li>
 
   <li>
+    <b> Self-managed Speech Therapy </b> <a href="https://www.tdcommons.org/cgi/viewcontent.cgi?article=2474&context=dpubs_series">[link]</a> <br>
+    #2018 #SpeechTherapy <br>
+  </li>
+
+  <li>
+    <b> NAME </b> <a href="LINK">[link]</a> <br>
+    INFO <br>
+  </li>
+
+  <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
@@ -259,8 +289,13 @@
   </li>
 
   <li>
-    <b> NAME </b> <a href="LINK">[link]</a> <br>
-    INFO <br>
+    <b> Introduction to Digital Speech Processing 數位語音處理概論 - 李琳山教授 </b> <a href="http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S204/1">[link]</a> <br>
+    本課程專為大學部同學所開授。所需要的最主要基礎能力是數學模型(機率、線性代數)及軟體程式，所有難題由數學模型分析，並由程式求解；其中大部份核心觀念均與機器學習(Machine Learning) <br>
+  </li>
+
+  <li>
+    <b> Merlin:中文统计参数语音合成实战 </b> <a href="https://sentiment-mining.blogspot.com/2017/07/merlin.html">[link]</a> <br>
+    本文目标是详细解释如何基于开源Merlin项目搭建中文统计参数语音合成系统，但笔者目前尚未实现中文语音合成，本文记录了笔者的进展并且会持续更新直到实现中文语音合成为止。 <br>
   </li>
 
   </ol>
