@@ -17,96 +17,79 @@
   </li>
 
   <li>
-    <b>Festival</b> <br>
+    <b>Festival</b> <a href="http://www.cstr.ed.ac.uk/projects/festival/">[link]</a> <br>
     Speech Synthesis System by CSTR <br>
-    http://www.cstr.ed.ac.uk/projects/festival/
   </li>
 
   <li>
-    <b>Speech-Corpus-Collection</b> <br> 
-    https://github.com/candlewill/Speech-Corpus-Collection
+    <b>Speech-Corpus-Collection</b> <a href="https://github.com/candlewill/Speech-Corpus-Collection">[link]</a> <br>
   </li>
 
   <li>
-    <b>Kaldi ASR</b> <br> 
-    http://kaldi-asr.org/
+    <b>Kaldi ASR</b> <a href="http://kaldi-asr.org/">[link]</a> <br>
   </li>
 
   <li>
-    <b>Praat</b> <br> 
-    http://www.fon.hum.uva.nl/praat/
+    <b>Praat</b> <a href="http://www.fon.hum.uva.nl/praat/">[link]</a> <br>
   </li>
 
   <li>
-    <b>LibriSpeech ASR corpus</b> <br>
+    <b>LibriSpeech ASR corpus</b> <a href="https://www.openslr.org/12">[link]</a> <br>
     Large-scale (1000 hours) corpus of read English speech <br>
-    https://www.openslr.org/12
   </li>
 
   <li>
-    <b>Common voice</b> <br>
+    <b>Common voice</b> <a href="https://github.com/mozilla/voice-web">[Github]</a> <a href="https://voice.mozilla.org/">[website]</a> <br>
     Common Voice is Mozilla's initiative to help teach machines how real people speak. <br>
-    https://github.com/mozilla/voice-web <br>
-    https://voice.mozilla.org/
+    https://github.com/mozilla/voice-web/tree/master/server/data/zh-HK
   </li>
   
   <li>
-    <b>TED-LIUM Release 3</b> <br>
+    <b>TED-LIUM Release 3</b> <a href="https://www.openslr.org/51/">[link]</a> <br>
     452 hours of audio <br>
-    https://www.openslr.org/51/
   </li>
 
   <li>
-    <b>VoxForge</b> <br>
+    <b>VoxForge</b> <a href="http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/">[link]</a> <br>
     VoxForge was set up to collect transcribed speech for use in Open Source Speech Recognition Engines ("SRE"s) such as such as ISIP, HTK, Julius and Sphinx.<br>
-    http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/
   </li>
   
   <li>
-    <b>Tatoeba</b> <br>
+    <b>Tatoeba</b> <a href="https://tatoeba.org/eng/downloads">[link]</a> <br>
     Tatoeba is a collection of sentences and translations. <br>
-    https://tatoeba.org/eng/downloads
   </li>
   
   <li>
-    <b>EMIME Project</b> <br>
-    http://www.emime.org/
+    <b>EMIME Project</b> <a href="http://www.emime.org/">[link]</a> <br>
   </li>
   
   <li>
-    <b>CMU_ARCTIC speech synthesis databases</b> <br>
-    http://festvox.org/cmu_arctic/
+    <b>CMU_ARCTIC speech synthesis databases</b> <a href="http://festvox.org/cmu_arctic/">[link]</a> <br>
   </li>
   
   <li>
-    <b>The World English Bible</b> <br>
-    http://www.audiotreasure.com/webindex.htm
+    <b>The World English Bible</b> <a href="http://www.audiotreasure.com/webindex.htm">[link]</a> <br>
   </li>
   
   <li>
-    <b>Nancy Corpus</b> <br>
-    http://www.cstr.ed.ac.uk/projects/blizzard/2011/lessac_blizzard2011/
+    <b>Nancy Corpus</b> <a href="http://www.cstr.ed.ac.uk/projects/blizzard/2011/lessac_blizzard2011/">[link]</a> <br>
   </li>
   
   <li>
-  <b>Google uis-rnn</b> <br>
-  This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. https://arxiv.org/abs/1810.04719
-    https://github.com/google/uis-rnn
+  <b>Google uis-rnn</b> <a href="https://github.com/google/uis-rnn">[Github]</a> <a href="https://arxiv.org/abs/1810.04719">[paper]</a> <br>
+  This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. 
   </li>
 
   <li>
-  <b>A simple interface for the CMU pronouncing dictionary </b> <br>
-  https://github.com/aparrish/pronouncingpy
+  <b>A simple interface for the CMU pronouncing dictionary </b> <a href="https://github.com/aparrish/pronouncingpy">[link]</a> <br>
   </li>
   
   <li>
-  <b>E-Guide dog</b> <br>
-  https://www.oschina.net/question/3820517_2280583
+  <b>E-Guide dog</b> <a href="https://www.oschina.net/question/3820517_2280583">[link]</a> <br>
   </li>
 
   <li>
-  <b>PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC) </b> <br>
-  https://github.com/r9y9/gantts
+  <b>PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC) </b> <a href="https://github.com/r9y9/gantts">[link]</a> <br>
   </li>
 
   <li>
@@ -115,9 +98,15 @@
   </li>
 
   <li>
+    <b> Facebook fastText </b> <a href="https://github.com/facebookresearch/fastText">[link]</a> <br>
+    fastText is a library for efficient learning of word representations and sentence classification. <br>
+  </li>
+
+  <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
+
   </ol>
 </div>
 
@@ -125,29 +114,45 @@
 <div id="nlp">
   <ol>
   <li>
-  <b>BBC news corpus</b> <br>
-  http://mlg.ucd.ie/datasets/bbc.html
+  <b>BBC news corpus</b> <a href="http://mlg.ucd.ie/datasets/bbc.html">[link]</a> <br>
   </li>
   
   <li>
-  <b>GEO query database</b> <br>
-  http://www.cs.utexas.edu/users/ml/nldata/geoquery.html
+  <b>GEO query database</b> <a href="http://www.cs.utexas.edu/users/ml/nldata/geoquery.html">[link]</a> <br>
   </li>
   
   <li>
-  <b>FreeBase for QA</b> <br>
-  https://www.freebase.com/
+  <b>FreeBase for QA</b> <a href="https://www.freebase.com/">[link]</a> <br>
   </li>
   
   <li>
-  <b>Google Bert </b> <br>
+  <b>Google Bert </b> <a href="https://github.com/google-research/bert">[link]</a> <br>
   TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
-  https://github.com/google-research/bert
   </li>
   
   <li>
-  <b>Google Dialogflow(previously api.ai) </b> <br>
-  https://dialogflow.com/
+  <b>Google Dialogflow(previously api.ai) </b> <a href="https://dialogflow.com/">[link]</a> <br>
+  </li>
+
+  <li>
+    <b> DouBan DuShu </b> <a href="https://github.com/JaniceZhao/Douban-Dushu-Dataset">[link]</a> <br>
+    DouBan DuShu is a Chinese website where users can share their reviews about various kinds of books. <br>
+  </li>
+  
+
+  <li>
+    <b> Chinese-Forum-Corpus </b> <a href="https://github.com/JaniceZhao/Chinese-Forum-Corpus.git">[link]</a> <br>
+    Chinese-Forum-Corpus is a corpus of informal Chinese text <br>
+  </li>
+
+  <li>
+    <b> CLAMP </b> <a href="https://clamp.uth.edu ">[link]</a> <br>
+    Clinical Language Annotation, Modeling, and Processing Toolkit <br>
+  </li>
+
+  <li>
+    <b> Bytecup2018 </b> <a href="https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0">[link]</a> <br>
+    Bytecup Dataset <br>
   </li>
 
   <li>
@@ -155,14 +160,6 @@
     INFO <br>
   </li>
   
-  DouBan DuShu is a Chinese website where users can share their reviews about various kinds of books.
-  https://github.com/JaniceZhao/Douban-Dushu-Dataset
-
-  https://github.com/JaniceZhao/Chinese-Forum-Corpus.git
-
-  https://clamp.uth.edu CLAMP Clinical Language Annotation, Modeling, and Processing Toolkit
-  
-  https://www.dropbox.com/sh/fum6rxzx66bz5dl/AABLGonlZvj5m6LzqGgUsb6ga?dl=0
   </ol>
 </div>
 
@@ -170,29 +167,24 @@
 <div id="ml">
   <ol>
   <li>
-    <b> An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville </b> <br>
-    https://www.deeplearningbook.org/
+    <b> An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville </b> <a href="https://www.deeplearningbook.org/">[link]</a> <br>
   </li>
   
   <li>
-    <b> Deepmind trfl </b> <br>
-    https://github.com/deepmind/trfl/
+    <b> Deepmind trfl </b> <a href="https://github.com/deepmind/trfl/">[link]</a> <br>
   </li>
   
   <li>
-    <b> Dopamine is a research framework for fast prototyping of reinforcement learning algorithms </b> <br>
-    https://github.com/google/dopamine
+    <b> Dopamine is a research framework for fast prototyping of reinforcement learning algorithms </b> <a href="https://github.com/google/dopamine">[link]</a> <br>
   </li>
 
   <li>
-    <b> Neural Networks and Deep Learning, a free online book </b> <br>
-    http://neuralnetworksanddeeplearning.com/
+    <b> Neural Networks and Deep Learning, a free online book </b> <a href="http://neuralnetworksanddeeplearning.com/">[link]</a> <br>
   </li>
   
   <li>
-    <b> TensorSpace.js </b> <br>
+    <b> TensorSpace.js </b> <a href="https://github.com/tensorspace-team/tensorspace">[link]</a> <br>
     A neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js
-    https://github.com/tensorspace-team/tensorspace
   </li>
 
   <li>
@@ -206,40 +198,33 @@
 <div id="paper">
   <ol>
   <li>
-    <b> One Model To Learn Them All </b> <br>
+    <b> One Model To Learn Them All </b> <a href="https://arxiv.org/abs/1706.05137">[link]</a> <br>
     #2017 #MultiTasking <br>
-    https://arxiv.org/abs/1706.05137
   </li>
 
   <li>
-    <b> Attention Is All You Need </b> <br>
+    <b> Attention Is All You Need </b> <a href="https://arxiv.org/abs/1706.03762">[link]</a> <br>
     #2017 #NeuralNetwork #Attention <br>
-    https://arxiv.org/abs/1706.03762  
   </li>
 
   <li>
-    <b> Low-Resource Speech-to-Text Translation </b> <br>
-    https://arxiv.org/pdf/1803.09164.pdf
+    <b> Low-Resource Speech-to-Text Translation </b> <a href="https://arxiv.org/pdf/1803.09164.pdf">[link]</a> <br>
   </li>
 
   <li>
-    <b> speech-to-speech translation </b> <br>
-    https://scholar.google.co.uk/scholar?as_ylo=2018&q=speech-to-speech+translation&hl=en&as_sdt=0,5&as_vis=1
+    <b> speech-to-speech translation </b> <a href="https://scholar.google.co.uk/scholar?as_ylo=2018&q=speech-to-speech+translation&hl=en&as_sdt=0,5&as_vis=1">[link]</a> <br>
   </li>
 
   <li>
-    <b> Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents </b> <br>
-    https://arxiv.org/pdf/1801.08116.pdf
+    <b> Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents </b> <a href="https://arxiv.org/pdf/1801.08116.pdf">[link]</a> <br>
   </li>
 
   <li>
-    <b> Multimodal Machine Translation with Reinforcement Learning </b> <br>
-    https://arxiv.org/pdf/1805.02356.pdf
+    <b> Multimodal Machine Translation with Reinforcement Learning </b> <a href="https://arxiv.org/pdf/1805.02356.pdf">[link]</a> <br>
   </li>
 
   <li>
-    <b> Exploiting Linguistic Resources for Neural Machine Translation Using Multi-task Learning </b> <br>
-    https://arxiv.org/pdf/1708.00993.pdf 
+    <b> Exploiting Linguistic Resources for Neural Machine Translation Using Multi-task Learning </b> <a href="https://arxiv.org/pdf/1708.00993.pdf">[link]</a> <br>
   </li>
 
   <li>
@@ -253,29 +238,31 @@
 <div id="courses">
   <ol>
   <li>
-    <b> Oxford Deep NLP 2017 course </b> <br>
-    https://github.com/oxford-cs-deepnlp-2017
+    <b> Oxford Deep NLP 2017 course </b> <a href="https://github.com/oxford-cs-deepnlp-2017">[link]</a> <br>
   </li>
 
   <li>
-    <b> Deepmind UCL Deep RL </b> <br>
-    https://www.youtube.com/watch?v=ISk80iLhdfU
+    <b> Deepmind UCL Deep RL </b> <a href="https://www.youtube.com/watch?v=ISk80iLhdfU">[link]</a> <br>
   </li>
 
   <li>
-    <b> Steps by steps - learn Computer Science and Artificial Intelligence </b> <br>
-    https://github.com/congchan/Computer-Science-and-Artificial-Intelligence
+    <b> Steps by steps - learn Computer Science and Artificial Intelligence </b> <a href="https://github.com/congchan/Computer-Science-and-Artificial-Intelligence">[link]</a> <br>
   </li>
 
   <li>
-    <b> AI For Everyone - Coursera </b> <br>
-    https://www.coursera.org/learn/ai-for-everyone/
+    <b> AI For Everyone - Coursera </b> <a href="https://www.coursera.org/learn/ai-for-everyone/">[link]</a> <br>
+  </li>
+
+  <li>
+    <b> Neural Networks and Deep Learning </b> <a href="neuralnetworksanddeeplearning.com">[link]</a> <br>
+    Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you many of the core concepts behind neural networks and deep learning. <br>
   </li>
 
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
+
   </ol>
 </div>
 
