@@ -186,6 +186,16 @@ Jump to:
   </li>
 
   <li>
+    <b> 開放中文轉換（Pure Python） </b> <a href="https://github.com/yichen0831/opencc-python/blob/master/README.md">[link]</a> <br>
+    Open Chinese convert (OpenCC) in pure Python. <br>
+  </li>
+
+  <li>
+    <b> pkuseg-python </b> <a href="https://github.com/lancopku/pkuseg-python">[link]</a> <br>
+    pkuseg是由北京大学语言计算与机器学习研究组研制推出的一套全新的中文分词工具包。 <br>
+  </li>
+  
+  <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
