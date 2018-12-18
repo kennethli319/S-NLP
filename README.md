@@ -223,6 +223,10 @@ Jump to:
   </li>
 
   <li>
+    <b> 《Attention is All You Need》中的Attention机制的实现 </b> <a href="https://github.com/bojone/attention">[link]</a> <br>
+  </li>
+
+  <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
