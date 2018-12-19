@@ -327,6 +327,11 @@ Jump to:
   </li>
 
   <li>
+    <b> PyText </b> <a href="https://code.fb.com/ai-research/pytext-open-source-nlp-framework/">[link]</a> <br>
+    Open-sourcing PyText for faster NLP development <br>
+  </li>
+
+ <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
