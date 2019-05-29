@@ -195,6 +195,8 @@ Jump to:
     pkuseg是由北京大学语言计算与机器学习研究组研制推出的一套全新的中文分词工具包。 <br>
   </li>
   
+  https://github.com/openai/gpt-2
+
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
