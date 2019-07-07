@@ -210,8 +210,9 @@ Jump to:
   </li>
   
   <li>
-    <b> NAME </b> <a href="LINK">[link]</a> <br>
-    INFO <br>
+    <b> XLNET </b> <a href="https://github.com/zihangdai/xlnet">[link]</a> <br>
+    XLNet: Generalized Autoregressive Pretraining for Language Understanding
+ <br>
   </li>
 
   </ol>
