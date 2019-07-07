@@ -128,6 +128,11 @@ Jump to:
 
 
   <li>
+    <b> Pyworld </b> <a href="https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder">[link]</a> <br>
+    A Python wrapper for the high-quality vocoder "World" <br>
+  </li>
+
+  <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
@@ -138,25 +143,26 @@ Jump to:
 ## NLP related:
 <div id="nlp">
   <ol>
+  
   <li>
-  <b>BBC news corpus</b> <a href="http://mlg.ucd.ie/datasets/bbc.html">[link]</a> <br>
+    <b>BBC news corpus</b> <a href="http://mlg.ucd.ie/datasets/bbc.html">[link]</a> <br>
   </li>
   
   <li>
-  <b>GEO query database</b> <a href="http://www.cs.utexas.edu/users/ml/nldata/geoquery.html">[link]</a> <br>
+    <b>GEO query database</b> <a href="http://www.cs.utexas.edu/users/ml/nldata/geoquery.html">[link]</a> <br>
   </li>
   
   <li>
-  <b>FreeBase for QA</b> <a href="https://www.freebase.com/">[link]</a> <br>
+    <b>FreeBase for QA</b> <a href="https://www.freebase.com/">[link]</a> <br>
   </li>
   
   <li>
-  <b>Google Bert </b> <a href="https://github.com/google-research/bert">[link]</a> <br>
-  TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
+    <b>Google Bert </b> <a href="https://github.com/google-research/bert">[link]</a> <br>
+    TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
   </li>
   
   <li>
-  <b>Google Dialogflow(previously api.ai) </b> <a href="https://dialogflow.com/">[link]</a> <br>
+    <b>Google Dialogflow(previously api.ai) </b> <a href="https://dialogflow.com/">[link]</a> <br>
   </li>
 
   <li>
@@ -164,7 +170,6 @@ Jump to:
     DouBan DuShu is a Chinese website where users can share their reviews about various kinds of books. <br>
   </li>
   
-
   <li>
     <b> Chinese-Forum-Corpus </b> <a href="https://github.com/JaniceZhao/Chinese-Forum-Corpus.git">[link]</a> <br>
     Chinese-Forum-Corpus is a corpus of informal Chinese text <br>
@@ -192,9 +197,22 @@ Jump to:
 
   <li>
     <b> pkuseg-python </b> <a href="https://github.com/lancopku/pkuseg-python">[link]</a> <br>
-    pkuseg是由北京大学语言计算与机器学习研究组研制推出的一套全新的中文分词工具包。 <br>
+    pkuseg 是由北京大学语言计算与机器学习研究组研制推出的一套全新的中文分词工具包。 <br>
+  </li>
+
+  <li>
+    <b> OpenAI GPT-2 </b> <a href="https://github.com/openai/gpt-2">[link]</a> <br>
+    Code for the paper "Language Models are Unsupervised Multitask Learners" <br>
   </li>
   
+<<<<<<< Updated upstream
+=======
+  <li>
+    <b> NAME </b> <a href="LINK">[link]</a> <br>
+    INFO <br>
+  </li>
+
+>>>>>>> Stashed changes
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
