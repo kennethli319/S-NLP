@@ -208,10 +208,6 @@ Jump to:
     <b> OpenAI GPT-2 </b> <a href="https://github.com/openai/gpt-2">[link]</a> <br>
     Code for the paper "Language Models are Unsupervised Multitask Learners" <br>
   </li>
-
-    <b> NAME </b> <a href="LINK">[link]</a> <br>
-    INFO <br>
-  </li>
   
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
