@@ -4,7 +4,7 @@
 Other lists for SNLP:
 <a href="https://github.com/edobashira/speech-language-processing">[List1-Github-SNLP]</a>
 <a href="https://zhuanlan.zhihu.com/p/25887325">[List2-Zhihu-SNLP]</a>
-<a href="https://github.com/candlewill/Speech-Corpus-Collection">[List3-Github-Speech]</a> 
+<a href="https://github.com/candlewill/Speech-Corpus-Collection">[List3-Github-Speech]</a>
 <br>
 
 Jump to:
@@ -50,7 +50,7 @@ Jump to:
     Common Voice is Mozilla's initiative to help teach machines how real people speak. <br>
     https://github.com/mozilla/voice-web/tree/master/server/data/zh-HK
   </li>
-  
+
   <li>
     <b>TED-LIUM Release 3</b> <a href="https://www.openslr.org/51/">[link]</a> <br>
     452 hours of audio <br>
@@ -60,37 +60,37 @@ Jump to:
     <b>VoxForge</b> <a href="http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/">[link]</a> <br>
     VoxForge was set up to collect transcribed speech for use in Open Source Speech Recognition Engines ("SRE"s) such as such as ISIP, HTK, Julius and Sphinx.<br>
   </li>
-  
+
   <li>
     <b>Tatoeba</b> <a href="https://tatoeba.org/eng/downloads">[link]</a> <br>
     Tatoeba is a collection of sentences and translations. <br>
   </li>
-  
+
   <li>
     <b>EMIME Project</b> <a href="http://www.emime.org/">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>CMU_ARCTIC speech synthesis databases</b> <a href="http://festvox.org/cmu_arctic/">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>The World English Bible</b> <a href="http://www.audiotreasure.com/webindex.htm">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>Nancy Corpus</b> <a href="http://www.cstr.ed.ac.uk/projects/blizzard/2011/lessac_blizzard2011/">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>Google uis-rnn</b> <a href="https://github.com/google/uis-rnn">[Github]</a> <a href="https://arxiv.org/abs/1810.04719">[paper]</a> <br>
-    This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. 
+    This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
   </li>
 
   <li>
     <b>A simple interface for the CMU pronouncing dictionary </b> <a href="https://github.com/aparrish/pronouncingpy">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>E-Guide dog</b> <a href="https://www.oschina.net/question/3820517_2280583">[link]</a> <br>
   </li>
@@ -126,6 +126,10 @@ Jump to:
     <b> Linguistic Variation in Chinese Speech Communities 泛華語地區漢語共時語料庫 </b> <a href="http://hkcc.livac.org/index.php?lang=tc">[link]</a> <br>
   </li>
 
+  <li>
+    <b> Translatotron </b> <a href="https://google-research.github.io/lingvo-lab/translatotron/">[link]</a> <br>
+    Translatotron: An End-to-End Speech-to-Speech Translation Model <br>
+  </li>
 
   <li>
     <b> Pyworld </b> <a href="https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder">[link]</a> <br>
@@ -143,24 +147,24 @@ Jump to:
 ## NLP related:
 <div id="nlp">
   <ol>
-  
+
   <li>
     <b>BBC news corpus</b> <a href="http://mlg.ucd.ie/datasets/bbc.html">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>GEO query database</b> <a href="http://www.cs.utexas.edu/users/ml/nldata/geoquery.html">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>FreeBase for QA</b> <a href="https://www.freebase.com/">[link]</a> <br>
   </li>
-  
+
   <li>
     <b>Google Bert </b> <a href="https://github.com/google-research/bert">[link]</a> <br>
     TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
   </li>
-  
+
   <li>
     <b>Google Dialogflow(previously api.ai) </b> <a href="https://dialogflow.com/">[link]</a> <br>
   </li>
@@ -169,7 +173,7 @@ Jump to:
     <b> DouBan DuShu </b> <a href="https://github.com/JaniceZhao/Douban-Dushu-Dataset">[link]</a> <br>
     DouBan DuShu is a Chinese website where users can share their reviews about various kinds of books. <br>
   </li>
-  
+
   <li>
     <b> Chinese-Forum-Corpus </b> <a href="https://github.com/JaniceZhao/Chinese-Forum-Corpus.git">[link]</a> <br>
     Chinese-Forum-Corpus is a corpus of informal Chinese text <br>
@@ -204,20 +208,21 @@ Jump to:
     <b> OpenAI GPT-2 </b> <a href="https://github.com/openai/gpt-2">[link]</a> <br>
     Code for the paper "Language Models are Unsupervised Multitask Learners" <br>
   </li>
-  
-<<<<<<< Updated upstream
-=======
+
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
 
->>>>>>> Stashed changes
+=======
+  https://github.com/openai/gpt-2
+
+>>>>>>> 55ef8cc33734155943e50909c8f6fb90ebaf4d3b
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
   </li>
-  
+
   </ol>
 </div>
 
@@ -227,11 +232,11 @@ Jump to:
   <li>
     <b> An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville </b> <a href="https://www.deeplearningbook.org/">[link]</a> <br>
   </li>
-  
+
   <li>
     <b> Deepmind trfl </b> <a href="https://github.com/deepmind/trfl/">[link]</a> <br>
   </li>
-  
+
   <li>
     <b> Dopamine is a research framework for fast prototyping of reinforcement learning algorithms </b> <a href="https://github.com/google/dopamine">[link]</a> <br>
   </li>
@@ -239,7 +244,7 @@ Jump to:
   <li>
     <b> Neural Networks and Deep Learning, a free online book </b> <a href="http://neuralnetworksanddeeplearning.com/">[link]</a> <br>
   </li>
-  
+
   <li>
     <b> TensorSpace.js </b> <a href="https://github.com/tensorspace-team/tensorspace">[link]</a> <br>
     A neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js
@@ -319,7 +324,7 @@ Jump to:
     <b> Large-Scale Study of Curiosity-Driven Learning </b> <a href="https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf">[link]</a> <br>
     Curiosity-Driven RL <br>
   </li>
-  
+
   <li>
     <b> SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient </b> <a href="https://arxiv.org/pdf/1609.05473.pdf">[link]</a> <br>
     #2017 <br>
@@ -403,8 +408,3 @@ Jump to:
 
   </ol>
 </div>
-
-
-
-
-
