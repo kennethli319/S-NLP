@@ -126,6 +126,10 @@ Jump to:
     <b> Linguistic Variation in Chinese Speech Communities 泛華語地區漢語共時語料庫 </b> <a href="http://hkcc.livac.org/index.php?lang=tc">[link]</a> <br>
   </li>
 
+  <li>
+    <b> Translatotron </b> <a href="https://google-research.github.io/lingvo-lab/translatotron/">[link]</a> <br>
+    Translatotron: An End-to-End Speech-to-Speech Translation Model <br>
+  </li>
 
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
