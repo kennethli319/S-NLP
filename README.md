@@ -214,10 +214,6 @@ Jump to:
     INFO <br>
   </li>
 
-=======
-  https://github.com/openai/gpt-2
-
->>>>>>> 55ef8cc33734155943e50909c8f6fb90ebaf4d3b
   <li>
     <b> NAME </b> <a href="LINK">[link]</a> <br>
     INFO <br>
