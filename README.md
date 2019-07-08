@@ -214,8 +214,6 @@ Jump to:
     XLNet: Generalized Autoregressive Pretraining for Language Understanding
  <br>
   </li>
-  
-  .
 
 
   </ol>
