@@ -253,8 +253,8 @@ Jump to:
   </li>
 
   <li>
-    <b> NAME </b> <a href="LINK">[link]</a> <br>
-    INFO <br>
+    <b> pytorch-beginner </b> <a href="https://github.com/L1aoXingyu/pytorch-beginner">[link]</a> <br>
+    Toy code for pytorch beginner <br>
   </li>
 
   </ol>
